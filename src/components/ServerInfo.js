@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import axios  from 'axios'
 
-const endpoint = "http://localhost:80"
+const endpoint = "gamersgaming.xyz:3000"
 
 const serverInfo = {
     "ip": "",
